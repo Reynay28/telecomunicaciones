@@ -20,4 +20,13 @@
 - señales digital : la señal digital , es una señal discreta cuantificada que se expresa  en bits  con numeros finitos de amplitudes , lo logica binaria uilizada 0 y 1 se determinan en conjuntos con la amplitud cual cambia cada segundo .
 
 ##Actividad 2.3
--¿ cual es la diferencia entre las frecuencias AM y FM ?
+-¿ cual es la diferencia entre las frecuencias AM y FM ? 
+• la principal diferencia entre las frecuencias AM y FM reside en el ancho de banda que tiene cada una , esto implica una variación en la calidad del sonido.
+
+Ventajas 
+AM : • Es mas barato y sencillo 
+     • Tiene mas alcance 
+     • menor ancho de banda 
+     
+FM : • Tiene mayor ancho de banda
+     • Le afecta menos el ruido 
